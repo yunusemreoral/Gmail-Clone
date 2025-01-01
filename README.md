@@ -8,7 +8,7 @@
 
 <li>HTML5</li>
 <li>SCSS</li>
-<li>JSS</li>
+<li>JS</li>
 
 # Ekran Görüntüsü 🎥
 <img src="gmall-clone.gif" width="auto">      
