@@ -11,7 +11,7 @@
 <li>JSS</li>
 
 # Ekran Görüntüsü 🎥
-<img src="gmail-clone.gif" width="auto">      
+<img src="gmall-clone.gif" width="auto">      
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
